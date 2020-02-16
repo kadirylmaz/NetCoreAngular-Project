@@ -51,3 +51,13 @@ C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Projec
 C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Project\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Project\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Project\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Project\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Project\WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
