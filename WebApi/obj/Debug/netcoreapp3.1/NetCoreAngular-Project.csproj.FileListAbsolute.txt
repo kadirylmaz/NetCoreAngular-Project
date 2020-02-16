@@ -48,3 +48,6 @@ C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Projec
 C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Project\WebApi\obj\Debug\netcoreapp3.1\NetCoreAngular-Project.csproj.CopyComplete
+C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Project\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Project\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Kadir\OneDrive\Desktop\Javascript\Angular\Project\NetCoreAngular-Project\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
